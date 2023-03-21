@@ -5,7 +5,7 @@ All the pixels on the map are white exept for the pixels of the pools on the map
 ![image](https://user-images.githubusercontent.com/89970476/226582148-b9ab1b0c-f366-4638-802e-de970f54618d.png)
 
 
-Once the project is loaded the user can choose between 3 options of choice
+Once the project is loaded the user can choose between 3 options of choice  
 option 1:  
 Scan the .bmp file for pools and their respective location.  
 The output for this option will be the data (location and size) of the first pool,  
