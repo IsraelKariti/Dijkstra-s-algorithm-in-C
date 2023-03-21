@@ -22,7 +22,8 @@ and the pools in it will be sorted by size, using bubble sort, and the result wi
 ![image](https://user-images.githubusercontent.com/89970476/226577008-f3c6c8c2-1970-4a85-87fd-5ac57733055f.png)
 
 Option 3:  
-The program will calculate the shortest path between two points.  
+The program will calculate the shortest path between two points using the Dijkstra algorith, every time the program will find a shorter alternative it will be textually printed to the console.  
+The final and shortest path will be also printed on the map.  
 The user will choose the starting point, but the end point will always be the top right corner of the .bmp file  
 This calculation simultates a scenario where a human traveler has to travel between two points, but has a limited amount of water\oil\fuel  
 or any other perishable substance.
