@@ -34,6 +34,6 @@ The program will also print the path on the image
 The calculation of the path between the pools will be done using the dijkstra's algorithm,  
 Every time the traveler will reach a pool he will compare his current oil amount to the last time in which he was in the same pool.  
 The path that wasted the least amount of oil (the shortest path) will be chosen and printed on the picture.  
-
+In this example the traveler starts his journey from the bottom left corner and has to travel to the upper right corner with 8 units of oil. The result path shows that he has to recharge twice on the way in order to get to the destination.  
 ![image](https://user-images.githubusercontent.com/89970476/226580381-7ddcea63-dab9-440f-8366-42dbfebb25ad.png)
 ![image](https://user-images.githubusercontent.com/89970476/226580524-b1777785-de08-497c-82e5-302d1c8af2f7.png)
