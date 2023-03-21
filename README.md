@@ -25,8 +25,7 @@ Option 3:
 The program will calculate the shortest path between two points using the Dijkstra algorith, every time the program will find a shorter alternative it will be textually printed to the console.  
 The final and shortest path will be also printed on the map.  
 The user will choose the starting point, but the end point will always be the top right corner of the .bmp file  
-This calculation simultates a scenario where a human traveler has to travel between two points, but has a limited amount of water\oil\fuel  
-or any other perishable substance.
+This calculation simultates a scenario where a human traveler has to travel between two points, but has a limited amount of water\oil\fuel or any other perishable substance.  
 The amount of oil is determined by the user.  
 The amount of oil\water decreases while the traveler progresses.  
 The traveler can only recharge the oil\water in the pools.
