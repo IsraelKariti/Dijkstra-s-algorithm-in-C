@@ -2,7 +2,8 @@
 A project that analyzes .bmp image files and calculate best route alternatives based on Dijkstra's algorithm  
 The input for this software is a .bmp file that contain a map.  
 All the pixels on the map are white exept for the pixels of the pools on the map which are blue
-![image](https://user-images.githubusercontent.com/89970476/226575834-580f2fc4-1a37-4a01-9905-c75ff6d0a715.png)
+![image](https://user-images.githubusercontent.com/89970476/226582148-b9ab1b0c-f366-4638-802e-de970f54618d.png)
+
 
 Once the project is loaded the user can choose between 3 options of choice
 option 1:  
